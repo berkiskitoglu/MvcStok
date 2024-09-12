@@ -14,3 +14,11 @@
 # Kategori Kısımı
 ## Yeni Kategori Ekleme , Silme , Güncelleme işlemleri yapılmaktadır.
  
+![Kategori Ekran Görüntüsü](https://github.com/berkiskitoglu/MvcStok/blob/master/KategoriMvc.png)
+
+![Kategori Ekran Görüntüsü](https://github.com/berkiskitoglu/MvcStok/blob/master/Kategori2Mvc.png)
+
+![Kategori Ekran Görüntüsü](https://github.com/berkiskitoglu/MvcStok/blob/master/KategoriEkleMvc.png)
+
+
+
